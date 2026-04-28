@@ -13,15 +13,11 @@
 
 ### 👨‍💻 Sobre
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho interesse em desenvolvimento de software e busco evoluir constantemente minhas habilidades na área de tecnologia, com foco em desenvolvimento.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e busco evoluir constantemente minhas habilidades na área de tecnologia, com foco em desenvolvimento de software.
 
-Já tive experiência profissional na Edenred, onde desenvolvi habilidades como trabalho em equipe, organização e adaptação a ambientes corporativos.
+Tenho interesse em desenvolvimento web, banco de dados e inteligência artificial, aplicando conceitos de engenharia de software, boas práticas de programação e pensamento crítico na construção de soluções.
 
-Além disso, desenvolvi uma aplicação web utilizando a plataforma Bubble.io, aplicando conceitos de engenharia de software como modelagem de dados, regras de privacidade, organização de workflows e boas práticas para evitar hardcode e garantir segurança e escalabilidade.
-
-* **Habilidades Técnicas:** Python, C, C#, JavaScript, SQL, HTML, CSS, Git, GitHub.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação, proatividade e aprendizado contínuo.
-* **Experiência/Projetos Relevantes:** Desenvolvimento de projetos acadêmicos, recriação de interfaces web com IA e construção de aplicação web com banco de dados no Bubble.
+Também desenvolvi projetos utilizando plataformas low-code com IA, explorando modelagem de dados, segurança (privacy rules) e organização de lógica de sistemas.
 
 ---
 
@@ -46,27 +42,48 @@ Além disso, desenvolvi uma aplicação web utilizando a plataforma Bubble.io, a
 
 #### 💻 Desenvolvimento Web
 
-| Projeto                         | Descrição                                                                                               | Link |
-| :------------------------------ | :------------------------------------------------------------------------------------------------------ | :--: |
-| **Recriação do Neumorphism.io** | Interface recriada utilizando IA Studio com foco em design moderno (neumorfismo). | [Ver Projeto](./projeto-neumorphism/) |
+| Projeto | Descrição | Link |
+| :------ | :-------- | :--: |
+| **Recriação do Neumorphism.io** | Interface recriada com IA Studio focada em design moderno (neumorfismo). | [Ver Projeto](./projeto-neumorphism/) |
+
+---
 
 #### 🗃️ Banco de Dados & Low-Code
 
 | Projeto | Descrição | Link |
 | :------ | :-------- | :--: |
-| **Sistema Web com Bubble** | Aplicação de gestão desenvolvida com IA do Bubble, incluindo modelagem de banco de dados, regras de privacidade (segurança por usuário), organização de workflows e otimização de consultas. | [Ver Projeto](./projeto-bubble/) |
+| **Sistema Web com Bubble** | Aplicação de gestão com banco de dados, regras de privacidade por usuário, workflows organizados e otimização de consultas. | [🔗 Acessar Aplicação](https://welvisunicid-87969.bubbleapps.io/version-test) |
 
-#### 🎵 Inteligência Artificial
+---
+
+#### 🧠 Inteligência Artificial
 
 | Projeto | Descrição | Link |
 | :------ | :-------- | :--: |
-| **Música com I.A** | Música completa criada com o uso de Inteligência Artificial. | [Ver Projeto](./projeto-musica/) |
+| **Música com I.A** | Música criada com uso de Inteligência Artificial. | [Ver Projeto](./projeto-musica/) |
+| **Geração de Imagens com IA (Qwen)** | Criação e refinamento de imagens utilizando engenharia de prompt com múltiplas iterações. | [Ver Projeto](./projeto-engenharia-prompt/) |
+
+---
+
+#### ⚖️ Ética em Inteligência Artificial
+
+| Projeto | Descrição | Link |
+| :------ | :-------- | :--: |
+| **Viés Algorítmico em IA** | Experimento com classificação de imagens evidenciando erros causados por dados enviesados. | [Ver Projeto](./projeto-visao-computacional-etica/) |
 
 ---
 
 ### 🏗 Estrutura do Repositório
 
-- `root/`: Arquivo de apresentação principal  
+- `README.md`: Apresentação principal  
 - `/projeto-neumorphism/`: Interface web com IA  
 - `/projeto-bubble/`: Aplicação web com banco de dados no Bubble  
-- `/projeto-musica/`: Projeto de música com IA
+- `/projeto-musica/`: Projeto com IA  
+- `/projeto-engenharia-prompt/`: Geração de imagens com IA (Qwen)  
+- `/projeto-visao-computacional-etica/`: Experimento de viés em IA  
+
+---
+
+### 🚀 Objetivo Profissional
+
+Busco oportunidades para desenvolver minhas habilidades como desenvolvedor, aplicando boas práticas de engenharia de software, construindo soluções eficientes e evoluindo constantemente na área de tecnologia.
