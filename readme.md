@@ -45,6 +45,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Sou apaixonado
 | :--- | :--- | :---: |
 | **Sistema Web com Bubble** | Aplicação web de gestão com banco de dados, regras de privacidade e organização de workflows. | [Ver Projeto](https://welvisunicid-87969.bubbleapps.io/version-test) |
  
+#### 📱 Aplicações Mobile
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **ConectaFácil (App para Idosos)** | Aplicativo Android de videoconferência simplificada, focado em acessibilidade para idosos, utilizando IA (Manus AI) e integração com Jitsi Meet. | [Ver Projeto](./projeto-conectafacil/) |
+ 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -61,6 +66,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-neumorphism/`: Projeto de interface web com IA.
 - `/projeto-bubble/`: Aplicação web com banco de dados no Bubble.
+- `/projeto-conectafacil/`: Aplicativo mobile de videoconferência para idosos.
 - `/projeto-musica/`: Projeto de música com IA.
 - `/projeto-engenharia-prompt/`: Projeto de geração de imagens com IA.
 - `/projeto-batalha-modelos-ia/`: Comparação entre modelos de IA.
