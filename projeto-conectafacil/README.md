@@ -51,7 +51,7 @@ O projeto busca resolver a dificuldade que muitos idosos enfrentam ao utilizar t
 
 ## 📷 QR Code para Instalação
 
-![QR Code](./qrcode.pdf)
+![QR Code](/qrcode.pdf)
 
 ---
 
