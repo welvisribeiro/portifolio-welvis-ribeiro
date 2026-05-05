@@ -35,24 +35,12 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Sou apaixonado
  
 ### 📂 Portfólio de Projetos
  
-#### 💻 Desenvolvimento Web
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Recriação do Neumorphism.io** | Interface recriada utilizando IA Studio com foco em design moderno (neumorfismo). | [Ver Projeto](./projeto-neumorphism/) |
- 
-#### 🗃️ Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema Web com Bubble** | Aplicação web de gestão com banco de dados, regras de privacidade e organização de workflows. | [Ver Projeto](https://welvisunicid-87969.bubbleapps.io/version-test) |
- 
-#### 📱 Aplicações Mobile
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **ConectaFácil (App para Idosos)** | Aplicativo Android de videoconferência simplificada, focado em acessibilidade para idosos, utilizando IA (Manus AI) e integração com Jitsi Meet. | [Ver Projeto](./projeto-conectafacil/) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+| **ConectaFácil (App para Idosos)** | Aplicativo Android de videoconferência simplificada, focado em acessibilidade para idosos, utilizando IA (Manus AI) e integração com Jitsi Meet. | [Ver Projeto](./projeto-conectafacil/) |
+| **Sistema Web com Bubble** | Aplicação web de gestão com banco de dados, regras de privacidade e organização de workflows utilizando IA como acelerador. | [Ver Projeto](https://welvisunicid-87969.bubbleapps.io/version-test) |
+| **Recriação do Neumorphism.io** | Interface recriada utilizando IA Studio com foco em design moderno (neumorfismo). | [Ver Projeto](./projeto-neumorphism/) |
 | **Música com I.A** | Música completa criada com o uso de Inteligência Artificial. | [Ver Projeto](./projeto-musica/) |
 | **Geração de Imagens com IA (Qwen)** | Criação e refinamento de imagens utilizando engenharia de prompt com múltiplas iterações. | [Ver Projeto](./projeto-engenharia-prompt/) |
 | **Batalha de Modelos de IA (XML)** | Comparação entre diferentes LLMs avaliando precisão, estrutura e consumo de tokens. | [Ver Projeto](./projeto-batalha-modelos-ia/) |
