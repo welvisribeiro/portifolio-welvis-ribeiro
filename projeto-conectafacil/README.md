@@ -51,13 +51,7 @@ O projeto busca resolver a dificuldade que muitos idosos enfrentam ao utilizar t
 
 ## 📷 QR Code para Instalação
 
-![QR Code](/qrcode.pdf)
-
----
-
-## 🖼️ Capturas de Tela
-
-*(adicione prints do app se quiser melhorar ainda mais o projeto)*
+![QR Code](/qrcode.png)
 
 ---
 
